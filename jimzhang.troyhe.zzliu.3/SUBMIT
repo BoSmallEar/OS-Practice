@@ -1,0 +1,27 @@
+vm_pager.cpp
+# source file
+test1.4.cpp
+test2.8.cpp
+# reference order
+test3.7.cpp
+# child process change a global pointer
+test4.4.cpp
+# test cow
+test5.4.cpp
+# multiple fork
+test6.4.cpp
+test7.4.cpp
+# basic file back, invalid filename
+test8.4.cpp
+test9.4.cpp
+test10.4.cpp
+test11.4.cpp
+# swap + file combine
+test12.4.cpp
+# fork + swap + file combine
+test13.4.cpp
+# simple test
+test14.4.cpp
+# fork + swap + file combine
+test15.4.cpp
+# fork + swap + file combine
